@@ -13,7 +13,7 @@
   "license": "UNLICENSED",
   "author": "Jin Yi",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "./src/server.js",
   "scripts": {
     "start": "node ./src/server.js",
     "pretest": "eslint ./src --fix",
